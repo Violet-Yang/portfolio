@@ -61,7 +61,19 @@
       </div>
 
     </section>
-    <section>home</section>
+    <section class="portfolio" style="background-color: #f3f3f3">
+      <div class="content">
+        <h1 style="
+        font-size: 34px;
+        letter-spacing: 6px;
+        line-height: 1.2;">PORTFOLIO</h1>
+
+
+        <div class="list" style="width: 285px; height: 100%; background-color: darkgray">ddd</div>
+      </div>
+
+
+    </section>
 <!--  <div>home영역</div>-->
 <!--  <div>about me</div>-->
 <!--  <div>포트폴리오</div>-->
