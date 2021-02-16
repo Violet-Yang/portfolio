@@ -11,24 +11,26 @@ export default {
 </script>
 
 <style>
+@import "../assets/css/common.css";
+
 #app {
   font-family: "Noto Sans KR";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  max-width: 1366px;
+
 }
 
-p, div {
+
+h1, p, div {
   margin: 0;
   padding: 0;
 }
 
-.flex-all-center {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
+h2 {
+  font-weight: normal;
+  margin: 0;
 }
+
 </style>
