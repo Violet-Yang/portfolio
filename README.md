@@ -1,4 +1,4 @@
-# 개인 포드폴리오
+# 개인 포트폴리오
 
 ![img_main](https://user-images.githubusercontent.com/50068478/111103053-e5ac6f00-8590-11eb-9ab4-f7ea3ea33430.JPG)
 
