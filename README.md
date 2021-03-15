@@ -1,30 +1,16 @@
-# portfolio
+# 개인 포드폴리오_양지은_
 
-> A Vue.js project
+![img_main](https://user-images.githubusercontent.com/50068478/111103053-e5ac6f00-8590-11eb-9ab4-f7ea3ea33430.JPG)
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+> **A Vue.js project**
+> 
+> 개인 프로필과 프로젝트 소개를 위한 개인 사이트입니다.
+> 
+프로필, 포트폴리오, 블로그 안내로 이루어져있고, **FireBase**로 배포한 URI가 있는 서비스입니다.
 
-# serve with hot reload at localhost:8080
-npm run dev
+_Vue.js 프레임워크를 사용하였으며, HTML5 & CSS3를 활용한 마크업과 Javascript 기반 구현했습니다._
 
-# build for production with minification
-npm run build
+## 사이트 안내
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+https://portfolio-jieun.web.app/#/
